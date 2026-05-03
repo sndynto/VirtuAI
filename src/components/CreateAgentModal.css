@@ -122,7 +122,6 @@ select.form-input { cursor: pointer; appearance: none; }
 .launch-warn a { color: var(--primary-light); }
 
 /* Success state */
-.modal-success {
 /* SUCCESS & PROCESSING */
 .modal-success, .modal-processing {
   text-align: center;
